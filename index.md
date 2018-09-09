@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-      <title>Brandy Eldridge- Brandy's Resume</title>
+      <title>"Brandy Eldridge- Brandy's Resume"</title>
   </head>
   <body>
       <header> 
