@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-      <title> Brandy Eldridge- Brandy's Resume/title>
+      <title> Brandy Eldridge- Brandy's Resume</title>
   </head>
   <body>
       <header> 
@@ -25,11 +25,11 @@
                     When I began my career here, I started out as a customer service representative and eventually
                      went into inventory management for the blinds department. Home Decorators Collection is now a
                       brand of Home Depot.</p>
-                <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.grouponcdn.com%2Fcoupons%2F3RiaEKLQn9WgXeNuSRXD%2FtZ-500x500&imgrefurl=https%3A%2F%2Fwww.groupon.com%2Fcoupons%2Fstores%2Fhomedecorators.com&docid=egB2ifwz0NUhbM&tbnid=PZ_flgRWc6SU-M%3A&vet=10ahUKEwiLgKHWtK7dAhVvmK0KHS7aDlMQMwjIASgSMBI..i&w=500&h=500&client=firefox-b-1-ab&bih=621&biw=1150&q=home%20decorators%20collection&ved=0ahUKEwiLgKHWtK7dAhVvmK0KHS7aDlMQMwjIASgSMBI&iact=mrc&uact=8"          
+                <img src="https://www.google.com/imgres?       imgurl=https%3A%2F%2Fimg.grouponcdn.com%2Fcoupons%2F3RiaEKLQn9WgXeNuSRXD%2FtZ-  500x500&imgrefurl=https%3A%2F%2Fwww.groupon.com%2Fcoupons%2Fstores%2Fhomedecorators.com&docid=egB2ifwz0NUhbM&tbnid=PZ_flgRWc6SU-M%3A&vet=10ahUKEwiLgKHWtK7dAhVvmK0KHS7aDlMQMwjIASgSMBI..i&w=500&h=500&client=firefox-b-1-ab&bih=621&biw=1150&q=home%20decorators%20collection&ved=0ahUKEwiLgKHWtK7dAhVvmK0KHS7aDlMQMwjIASgSMBI&iact=mrc&uact=8"          
                 </img>
-              <section>a name="Lemmitt Limousine"></a>
+              <section><a name="Lemmitt Limousine"></a>
                 <h2>Lemmitt Limousine in University City, MO</h2>
-                <p>My career as an accountant started here at Lemmitt Limousine. Although not officially my title, this job gave me the skills I needed to become proficient in the office and how one is run.</p>
+                <p>My career as an accountant started here at Lemmitt Limousine. Although not officially my title, this job gave me the                    skills I needed to become proficient in the office and how one is run.</p>
                 <img>
             </section>
             <a name="Kernz Group FAES"></a>
@@ -43,27 +43,20 @@
             </section>
             <section><a name="NumberTrak Accounting LLC"></a>
             <h2>NumberTrak Accounting LLC in Saint Louis, MO</h2>
-            <p>During my tenure at Kernz Group, the class I started mentioned above, WIBO, took my skills to another level by creating a business 
-                from scratch. This is where NumberTrak Accounting LLC was born. At NumberTrak, quite a few accomplishments have been made over the 
-                last couple years. I became a QuickBooks Certified ProAdvisor, Notary, and obtained a service mark which is similar to a trademark 
-                for my logo. I created my logo from scratch and with the help of the 1on1 platform, created a website which can be viewed 
-                at www.numbertrak.com. </p>
+            <p>During my tenure at Kernz Group, the class I started mentioned above, WIBO, took my skills to another level by creating a                 business from scratch. This is where NumberTrak Accounting LLC was born. At NumberTrak, quite a few accomplishments have                  been made over the 
+                last couple years. I became a QuickBooks Certified ProAdvisor, Notary, and obtained a service mark which is similar to a                 trademark for my logo. I created my logo from scratch and with the help of the 1on1 platform, created a website which                    can be viewed at www.numbertrak.com. </p>
             <img>
             </section>  
             <section>
                 <a name="River Raods Distributing Co"></a>
                 <h2>River Roads Distributing Co in Saint Louis, MO</h2>
-                <p>In January of 2018, I started as an Accounting Manager at River Roads while NumberTrak continues to grow. At River Roads, 
-                    we sell and repair trailers and containers and lease them out as well. We also have a lot where customers may pay for monthly 
-                    parking for their equipment.</p>
+                <p>In January of 2018, I started as an Accounting Manager at River Roads while NumberTrak continues to grow. At River                       Roads, we sell and repair trailers and containers and lease them out as well. We also have a lot where customers may                     pay for monthly parking for their equipment.</p>
                 <img>
                 </section>
                 <section>
                   <a name="LaunchCode"></a>
                   <h2>Student @ LaunchCode</h2>
-                  <p>As of July 2018, I started a coding class. The motivation behind this is that I am a very inquisitive person, and my kids, 
-                      ages 20 and 14 are needing me less which gave me a lot of free time to explore coding. I am hoping to find a new career path 
-                      since it is an ever changing field in which I can consistently expand on always learning something new. </p>
+                  <p>As of July 2018, I started a coding class. The motivation behind this is that I am a very inquisitive person, and                        my daughters, ages 20 and 14 are needing me less which gave me a lot of free time to explore coding. I am hoping to                      find a new career path since it is an ever changing field in which I can consistently expand on always learning                          something new. I love finding solutions! </p>
             </section>
           </article>
       </main>
