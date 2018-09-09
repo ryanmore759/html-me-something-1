@@ -8,8 +8,7 @@
         <h1>Brandy's Resume</h1>
         <nav>
           <ul>
-              <li><a href="#Home Decorators Collection">Home Decorators Collection</a>
-              </li>
+              <li><a href="#Home Decorators Collection">Home Decorators Collection</a></li>
               <li><a href="#Lemmitt Limousine">Lemmitt Limousine</a></li>
               <li><a href="#Kernz Group FAES">Kernz Group FAES</a></li>
               <li><a href="#NumberTrak Accounting LLC">NumberTrak Accounting LLC</a></li>
@@ -20,7 +19,7 @@
       </header>
       <main>
           <article>
-              <section>a name="Home Decorators Collection"></a>
+              <section><a name="Home Decorators Collection"></a>
                 <h2>Home Decorators Collection in Hazelwood, MO</h2>
                 <p>Home Decorators Collection now a division of Home Depot started out as a mail order catalogue. 
                     When I began my career here, I started out as a customer service representative and eventually
