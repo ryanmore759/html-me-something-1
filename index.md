@@ -8,7 +8,7 @@
         <h1>Brandy's Resume</h1>
         <nav>
           <ul>
-              <li>a href="#Home Decorators Collection">Home Decorators Collection</a>
+              <li><a href="#Home Decorators Collection">Home Decorators Collection</a>
               </li>
               <li><a href="#Lemmitt Limousine">Lemmitt Limousine</a></li>
               <li><a href="#Kernz Group FAES">Kernz Group FAES</a></li>
